@@ -1,5 +1,5 @@
 {
-  "name": "sula-web",
+  "name": "dora-web",
   "version": "0.0.1",
   "description": "A multi-functional WhatsApp bot Web paircode.",
   "main": "index.js",
@@ -13,9 +13,9 @@
     "stop": "echo 'No stop functionality (use Ctrl+C to stop)'",
     "restart": "echo 'No restart functionality (use manual restart)'"
   },
-  "author": "SULA-MD OWNER",
+  "author": "DORA-MD OWNER",
   "license": "ISC",
-  "description": "sula-md pair",
+  "description": "dora-md pair",
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.17",
     "qrcode": "^1.5.4",
